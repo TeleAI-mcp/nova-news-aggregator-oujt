@@ -1,2 +1,3 @@
-# nova-news-aggregator-oujt
+# Nova News Aggregator Oujt
+
 A repository to test GitHub automation for issue management.
